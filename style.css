@@ -1,0 +1,21 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+#plus,#minus{
+    font-size: 30px;
+
+}
+#text{
+    font-size: 35px;
+}
